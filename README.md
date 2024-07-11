@@ -1,4 +1,4 @@
-# Statistics Project
+# Statistics Project 1
 
 ## Overview
 This repository contains a statistics project that covers tasks such as implementing counting measures, interval measures, exponential distribution calculations, and using integration for probability measures.
